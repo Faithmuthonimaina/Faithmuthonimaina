@@ -4,7 +4,7 @@
 
 int main(){
 
-    //Simple interset program
+
     int principal, rate, time, interest;
 
     printf("Enter the principal: ");
